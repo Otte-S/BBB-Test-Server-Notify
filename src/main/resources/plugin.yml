@@ -1,0 +1,6 @@
+name: BBBTestServerNotify
+version: '1.0.0'
+main: com.builtbyotte.bbbtestservernotify.BBBTestServerNotify
+api-version: '1.21'
+author: Otte
+description: Sends a Discord webhook notification when a test server starts up.

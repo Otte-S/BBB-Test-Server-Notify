@@ -1,0 +1,12 @@
+webhook-url: "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
+notify-on-start: true
+server-name: "auto"
+show-address: true
+public-address: ""
+message:
+  title: "🧪 Test server started"
+  description: "A new test server has started and is online."
+  color: "#57F287"
+  footer: "BBBTestServerNotify"
+  username: "Testserver Notifier"
+  avatar-url: ""
